@@ -1,1 +1,3 @@
 https://github.com/m2sh/php7/blob/master/alpine/dev/Dockerfile
+https://laracasts.com/discuss/channels/lumen/cant-get-config-data-in-lumen?page=1
+https://laracasts.com/discuss/channels/lumen/lumen-config-folder-is-missing
